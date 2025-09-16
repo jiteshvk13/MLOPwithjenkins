@@ -5,7 +5,7 @@ pipeline {
         VENV_DIR = 'venv'
         DOCKERHUB_CREDENTIAL_ID = 'mlops-dockerhub'
         DOCKERHUB_REGISTRY = 'https://registry.hub.docker.com'
-        DOCKERHUB_REPOSITORY = 'dataguru97/prediction-mlops-app'
+        DOCKERHUB_REPOSITORY = 'jiteshvk13/prediction-mlops-app'
     }
     
     stages {
