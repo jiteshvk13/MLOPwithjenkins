@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/JITESH/Desktop/Project%206/mlruns/206841321068874844/models/m-3f624485b395495aad6421eaf85ad00c/artifacts
+creation_timestamp: 1757566529983
+experiment_id: '206841321068874844'
+last_updated_timestamp: 1757566538232
+model_id: m-3f624485b395495aad6421eaf85ad00c
+model_type: null
+name: model
+source_run_id: c0a6b40b335c463d9a24b8b524f65e22
+status: 2
+status_message: null

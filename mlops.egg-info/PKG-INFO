@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: mlops
+Version: 0.1
+Summary: Airline Prediction
+Author: jitesh
+Author-email: jiteshvk13@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: setuptools
+Requires-Dist: mysql-connector-python
+Requires-Dist: scikit-learn
+Requires-Dist: lightgbm
+Requires-Dist: xgboost
+Requires-Dist: tensorboard
+Requires-Dist: torch
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary

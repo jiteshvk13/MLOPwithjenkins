@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/JITESH/Desktop/Project%206/mlruns/206841321068874844/models/m-3f624485b395495aad6421eaf85ad00c/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.3.2
+model_id: m-3f624485b395495aad6421eaf85ad00c
+model_size_bytes: 690268
+model_uuid: m-3f624485b395495aad6421eaf85ad00c
+prompts: null
+run_id: c0a6b40b335c463d9a24b8b524f65e22
+utc_time_created: '2025-09-11 04:55:30.083691'

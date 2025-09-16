@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/JITESH/Desktop/Project%206/mlruns/206841321068874844/c0a6b40b335c463d9a24b8b524f65e22/artifacts
+end_time: 1757566538261
+entry_point_name: ''
+experiment_id: '206841321068874844'
+lifecycle_stage: active
+run_id: c0a6b40b335c463d9a24b8b524f65e22
+run_name: masked-hound-877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757566465774
+status: 3
+tags: []
+user_id: JITESH

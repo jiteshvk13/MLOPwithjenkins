@@ -1,0 +1,16 @@
+cmd: python src/data_ingestion.py
+deps:
+- path: config/paths_config.py
+  hash: md5
+  md5: 8a3c37d0f6e7c94b7e76a5bd1ce0a4e8
+  size: 743
+- path: src/data_ingestion.py
+  hash: md5
+  md5: d41512e09b3fcee65d02a709c91fca9f
+  size: 1810
+outs:
+- path: artifacts/ingested_data
+  hash: md5
+  md5: 12b84d2de61274e474be5d4a23316580.dir
+  size: 11426183
+  nfiles: 2
